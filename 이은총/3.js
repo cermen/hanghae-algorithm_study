@@ -5,3 +5,5 @@ function solution(s) {
    
 }
 console.log(solution("1245"))
+
+// https://programmers.co.kr/learn/courses/30/lessons/12903
